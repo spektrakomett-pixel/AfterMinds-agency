@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Creative Agency",
+  "description": "Fullscreen high-fidelity landing page and interactive portal for AfterMinds, a premium creative agency specializing in video editing, graphic design, web development, and social media handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
